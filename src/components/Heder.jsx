@@ -6,7 +6,8 @@ const Heder = () => {
     <nav className="space-x-2">
       <NavLink to ='/about-page' 
       className="hover:bg-white hover:text-black p-3" href="">about</NavLink>
-      <NavLink to='about-page' className="hover:bg-white hover:text-black p-3" href="">Contact</NavLink>
+      <NavLink to='/contact-page' 
+      className="hover:bg-white hover:text-black p-3" href="">Contact</NavLink>
     </nav>
     </header>
   )
