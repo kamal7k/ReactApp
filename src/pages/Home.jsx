@@ -11,7 +11,7 @@ const Home = () => {
       <div className="navs divide-x-4 divide-slate-900">
         <NavLink to='/'>Page1</NavLink>
         <NavLink to='/page2'>Page2</NavLink>
-
+ 
 
       </div>
       <Outlet />
